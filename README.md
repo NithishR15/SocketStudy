@@ -86,9 +86,11 @@ s.send("acknowledgement received from the server".encode())
 ## OUTPUT:
 ### Client Window:
 
+![Screenshot 2024-04-15 133434](https://github.com/23004513/SocketStudy/assets/138973069/f0339740-8bee-4eb2-9c7c-910823cfc450)
+
 ### Server Window:
 
-
+![Screenshot 2024-04-15 133500](https://github.com/23004513/SocketStudy/assets/138973069/f9ae3d4f-b4ff-4016-8431-892d1f84d18d)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully

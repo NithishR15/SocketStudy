@@ -85,9 +85,9 @@ s.send("acknowledgement received from the server".encode())
 
 ## OUTPUT:
 ### Client Window:
-![Screenshot 2024-04-19 223222](https://github.com/SriVignesh-G/SocketStudy/assets/147576510/e980289d-8463-4d4d-ba4d-22a3e00540f2)
+
 ### Server Window:
-![Screenshot 2024-04-19 223226](https://github.com/SriVignesh-G/SocketStudy/assets/147576510/c6ecf742-eb6a-4b06-abcc-9abcaf9199df)
+
 
 
 ## Result:
